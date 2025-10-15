@@ -5,11 +5,12 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
-    "crewai>=0.186.1",
-    "crewai-tools>=0.71.0",
-    "ddgs>=9.6.0",
-    "fastapi>=0.116.2",
-    "langchain-community>=0.3.29",
-    "langchain-google-genai>=2.1.12",
-    "langgraph>=0.6.7",
+    "crewai>=0.193.2",
+    "crewai-tools>=0.73.1",
+    "ddgs",
+    "fastapi",
+    "langchain>=0.3.27",
+    "langchain-community",
+    "langchain-google-genai",
+    "langgraph",
 ]
